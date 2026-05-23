@@ -1,6 +1,6 @@
 # DeepSeek Harness
 
-![DeepSeek Harness Cover](Images/cover.png)
+![DeepSeek Harness Cover](Images/cover2.png)
 
 A coding agent harness purpose-built for **DeepSeek V4** — designed to wrap and extend the DeepSeek V4 model with structured agent workflows, tool use, and task orchestration.
 
