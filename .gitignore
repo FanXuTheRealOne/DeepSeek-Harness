@@ -1,0 +1,6 @@
+# Claude Code project files
+CLAUDE.md
+.claude/
+
+# macOS
+.DS_Store
